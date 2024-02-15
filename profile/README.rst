@@ -4,7 +4,7 @@ Cherenkov plenoscope
 
 |MpiHeidelbergLogo| |EthZurichLogo|
 
-Explore cosmic gamma rays with energies as low as one giga electron Volt in large collecting areas as big as several thousand square metres.
+Explore cosmic gamma rays with energies as low as one giga electron Volt in collecting areas as large as several thousand square metres.
 
 ************
 Publications
