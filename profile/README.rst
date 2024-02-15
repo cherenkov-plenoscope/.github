@@ -15,15 +15,15 @@ Optics
 |PublicationOptics|
 
 
-.. |EthZurichLogo| image:: resources/ethz_logo_black.svg
+.. |EthZurichLogo| image:: https://github.com/cherenkov-plenoscope/.github/blob/profile/resources/ethz_logo_black.svg
     :width: 10%
     :target: https://ipa.phys.ethz.ch/
 
-.. |MpiHeidelbergLogo| image:: resources/logo_mpi_kernphysik.svg
+.. |MpiHeidelbergLogo| image:: https://github.com/cherenkov-plenoscope/.github/blob/profile/resources/logo_mpi_kernphysik.svg
     :width: 10%
     :target: https://www.mpi-hd.mpg.de/mpi/de/
 
 
-.. |PublicationOptics| image:: resources/mueller2024exploring-optics.jpg
+.. |PublicationOptics| image:: https://github.com/cherenkov-plenoscope/.github/blob/profile/resources/mueller2024exploring-optics.jpg
     :width: 33%
     :target: https://www.sciencedirect.com/science/article/pii/S0927650524000100
