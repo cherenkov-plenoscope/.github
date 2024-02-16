@@ -34,6 +34,19 @@ Astronomical performance :hammer: :wrench:
 |MpiHeidelbergLogo| |EthZurichLogo|
 
 
+Related efforts
+***************
+
+- The `Fermi Large Area Telescope`__ and Agile_ are particle detectors in space which can detect the abandund gamma rays at low energies but have only modest collecting areas.
+
+- The Cherenkov Telescope Array CTA_ is the next generation of ground based instruments which can detect the rare high energetic gamma rays in large collecting areas.
+
+.. _Fermi-LAT: https://fermi.gsfc.nasa.gov/
+__ Fermi-LAT_
+
+.. _Agile http://agile.rm.iasf.cnr.it/
+
+.. _CTA https://www.cta-observatory.org/
 
 Organization :clipboard:
 ************************
