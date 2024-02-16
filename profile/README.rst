@@ -1,10 +1,26 @@
 |PublicationOptics| |WorkInProgress| |WorkInProgress|
 
-|MpiHeidelbergLogo| |EthZurichLogo|
+Science
+*******
+Cosmic gamma rays are a special probe to investigate sudden cosmic events in the universe. Unlike thermal emission which ranges from radio to X-rays, cosmic gamma rays are often a direct probe of bursts or other short lived cosmic catastrophes. Today, the timing of cosmic gamma rays is a vivid part of astronomy. Cherenkov telescopes observe the rare gamma rays with energies of several hundred giga electron Volt in large collecting areas exceeding the size of soccer or football fields. Particle detectors on satellites observe the much more abundand gamma rays with energies of about one giga electron Volt in small collecting areas with the size of about a car's windshield. But for better timing, we want to collect the abundand gamma rays with low energies in large collecting areas in order to have large statistics in short amounts of time. This is the goal of the atmospheric Cherenkov plenoscope.
 
 This project explores the feasibility and performance of a Cherenkov plenoscope
 to observe cosmic gamma rays with energies as low as one giga electron Volt in
 collecting areas as large as several thousand square meters.
+
+The main objectives are to investigate and publish our findings related to:
+
+
+Optics
+    Explore and demonstrate how the optics of a plenoscope and it's perception of
+    light fields can be used to overcome the physical limits of existing
+    telescopes in order to build larger instruments which can detect cosmic
+    gamma rays with lower energies.
+
+
+|MpiHeidelbergLogo| |EthZurichLogo|
+
+
 
 Organization
 ************
