@@ -34,19 +34,30 @@ Astronomical performance :hammer: :wrench:
 |MpiHeidelbergLogo| |EthZurichLogo|
 
 
-Related efforts
-***************
+Related efforts :telescope:
+***************************
 
-- The `Fermi Large Area Telescope`__ and Agile_ are particle detectors in space which can detect the abandund gamma rays at low energies but have only modest collecting areas.
+- The `Fermi Large Area Telescope`_ (Fermi-LAT) and the `Astro-rivelatore Gamma a Immagini Leggero`_ (AGILE) are particle detectors in space which can detect the abandund gamma rays at low energies but have only modest collecting areas. See also `Energetic Gamma Ray Experiment Telescope`_ (EGRET).
 
-- The Cherenkov Telescope Array CTA_ is the next generation of ground based instruments which can detect the rare high energetic gamma rays in large collecting areas.
+- The `Cherenkov Telescope Array`_ (CTA) is the next generation of ground based instruments which can detect the rare high energetic gamma rays in large collecting areas. See also the current generation: `Very Energetic Radiation Imaging Telescope Array System`_ (VERITAS), `Major Atmospheric Gamma Imaging Cherenkov`_ (MAGIC), `High Energy Stereoscopic System`_ (H.E.S.S.), `Major Atmospheric Cerenkov Experiment Telescope`_ (MACE), and others.
 
-.. _Fermi-LAT: https://fermi.gsfc.nasa.gov/
-__ Fermi-LAT_
+.. _`Fermi Large Area Telescope`: https://fermi.gsfc.nasa.gov/
 
-.. _Agile http://agile.rm.iasf.cnr.it/
+.. _`Cherenkov Telescope Array`: https://www.cta-observatory.org/
 
-.. _CTA https://www.cta-observatory.org/
+.. _`Astro-rivelatore Gamma a Immagini Leggero`: http://agile.rm.iasf.cnr.it/
+
+.. _`Energetic Gamma Ray Experiment Telescope`: https://heasarc.gsfc.nasa.gov/docs/cgro/egret/
+
+.. _`Very Energetic Radiation Imaging Telescope Array System`: https://veritas.sao.arizona.edu/
+
+.. _`Major Atmospheric Gamma Imaging Cherenkov`: https://magic.mpp.mpg.de/
+
+.. _`High Energy Stereoscopic System`: https://www.mpi-hd.mpg.de/hfm/HESS/pages/about/telescopes/
+
+.. _`Major Atmospheric Cerenkov Experiment Telescope`: https://www.barc.gov.in/group/64_h157_144.pdf
+
+.. _`First G-APD Cherenkov telescope`: https://fact-project.org/
 
 Organization :clipboard:
 ************************
