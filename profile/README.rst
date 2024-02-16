@@ -11,11 +11,24 @@ collecting areas as large as several thousand square meters.
 The main objectives are to investigate and publish our findings related to:
 
 
-Optics
+Optics and light fields
     Explore and demonstrate how the optics of a plenoscope and it's perception of
     light fields can be used to overcome the physical limits of existing
     telescopes in order to build larger instruments which can detect cosmic
     gamma rays with lower energies.
+
+Background from cosmic rays
+    Explore the background of cosmic rays in the presence of earth's magnetic field
+    which will be visible to any atmospheric Cherenkov instrument capable of
+    detecting cosmic gamma rays with energies as low as one giga electron Volt.
+
+Astronomical performance
+    Estimate the response functions of a specific Cherenkov plenoscope designed to
+    detect cosmic gamma rays with energies as low as one giga electron Volt.
+    Estimate and discuss its sensitivity for astronomical targets in the context of
+    timing. This might include: gamma ray bursts, counterparts to mergers seen in
+    gravitational waves, timing arrays of pulsars, variability of active galactic
+    nuclei.
 
 
 |MpiHeidelbergLogo| |EthZurichLogo|
