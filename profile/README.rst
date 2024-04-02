@@ -82,16 +82,16 @@ for the Cherenkov plenoscope are developed.
 
 
 .. |EthZurichLogo| image:: https://github.com/cherenkov-plenoscope/.github/blob/main/profile/resources/ethz_logo_black.svg
-    :width: 15%
+    :width: 160px
     :target: https://ipa.phys.ethz.ch/
 
 .. |MpiHeidelbergLogo| image:: https://github.com/cherenkov-plenoscope/.github/blob/main/profile/resources/logo_mpi_kernphysik.svg
-    :width: 15%
+    :width: 160px
     :target: https://www.mpi-hd.mpg.de/mpi/de/
 
 .. |PublicationOptics| image:: https://github.com/cherenkov-plenoscope/.github/blob/main/profile/resources/mueller2024exploring-optics.jpg
-    :width: 33%
+    :width: 300px
     :target: https://www.sciencedirect.com/science/article/pii/S0927650524000100
 
 .. |WorkInProgress| image:: https://github.com/cherenkov-plenoscope/.github/blob/main/profile/resources/work_in_progress_placeholder.svg
-    :width: 33%
+    :width: 300px
