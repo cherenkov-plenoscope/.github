@@ -90,8 +90,8 @@ for the Cherenkov plenoscope are developed.
     :target: https://www.mpi-hd.mpg.de/mpi/de/
 
 .. |PublicationOptics| image:: https://github.com/cherenkov-plenoscope/.github/blob/main/profile/resources/mueller2024exploring-optics.jpg
-    :width: 300px
+    :width: 240px
     :target: https://www.sciencedirect.com/science/article/pii/S0927650524000100
 
 .. |WorkInProgress| image:: https://github.com/cherenkov-plenoscope/.github/blob/main/profile/resources/work_in_progress_placeholder.svg
-    :width: 300px
+    :width: 240px
