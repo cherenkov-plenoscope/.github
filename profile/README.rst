@@ -1,3 +1,5 @@
+
+
 |PublicationOptics| |WorkInProgress| |WorkInProgress|
 
 Science :milky_way:
@@ -95,3 +97,7 @@ for the Cherenkov plenoscope are developed.
 
 .. |WorkInProgress| image:: https://github.com/cherenkov-plenoscope/.github/blob/main/profile/resources/work_in_progress_placeholder.svg
     :width: 240px
+
+.. |VideoOptics| image:: https://github.com/cherenkov-plenoscope/.github/blob/main/profile/resources/video_optics_first_slide.jpg
+    :width: 1440px
+
