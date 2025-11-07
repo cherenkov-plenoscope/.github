@@ -1,9 +1,10 @@
-
-
-|PublicationOptics| |WorkInProgress| |WorkInProgress|
+|VideoOptics|
 
 Science :milky_way:
 *******************
+
+|PublicationOptics| |WorkInProgress| |WorkInProgress|
+
 Cosmic gamma rays are a special probe to investigate sudden cosmic events in the universe. Unlike thermal emission, which ranges from radio to X-rays, cosmic gamma rays are often a direct probe of bursts or other short lived cosmic catastrophes. Today, the timing of cosmic gamma rays is a vivid part of astronomy. Cherenkov telescopes observe the rare gamma rays with energies of several hundred giga electron Volt in large collecting areas exceeding the size of soccer or football fields. Particle detectors on satellites observe the much more abundand gamma rays with energies of about one giga electron Volt in small collecting areas with the size of about a car's windshield. But for better timing, we want to collect the abundand gamma rays with low energies in large collecting areas in order to have large statistics in short amounts of time. This is the goal of the atmospheric Cherenkov plenoscope.
 
 This project explores the feasibility and performance of a Cherenkov plenoscope
@@ -99,5 +100,6 @@ for the Cherenkov plenoscope are developed.
     :width: 240px
 
 .. |VideoOptics| image:: https://github.com/cherenkov-plenoscope/.github/blob/main/profile/resources/video_optics_first_slide.jpg
-    :width: 1440px
+    :width: 1280px
+    :target: https://www.youtube.com/watch?v=0699uqPMwe8
 
